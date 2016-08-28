@@ -1,0 +1,9 @@
+$main-brand-color:            #31AC97;
+$main-dark-color:             #3a3446;
+$main-dark-light-color:       #494158;
+
+@import 'base.scss';
+
+@import 'layouts/mobile.scss';
+@import 'layouts/tablet.scss';
+@import 'layouts/desktop.scss';
